@@ -1,0 +1,188 @@
+[
+    {
+        "id": "disfras-01",
+        "titulo": "disfras-01",
+        "imagen": "./img/disfraces/1.jpg",
+        "categoria": {
+            "nombre": "Disfraces",
+            "id": "disfraces"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "disfras-02",
+        "titulo": "disfras-02",
+        "imagen": "./img/disfraces/2.jpg",
+        "categoria": {
+            "nombre": "Disfraces",
+            "id": "disfraces"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "disfras-03",
+        "titulo": "disfras-03",
+        "imagen": "./img/disfraces/3.jpg",
+        "categoria": {
+            "nombre": "Disfraces",
+            "id": "disfraces"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "disfras-04",
+        "titulo": "disfras-04",
+        "imagen": "./img/disfraces/4.jpg",
+        "categoria": {
+            "nombre": "Disfraces",
+            "id": "disfraces"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "disfras-05",
+        "titulo": "disfras-05",
+        "imagen": "./img/disfraces/5.jpg",
+        "categoria": {
+            "nombre": "Disfraces",
+            "id": "disfraces"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "disfras-06",
+        "titulo": "disfras-06",
+        "imagen": "./img/disfraces/6.jpg",
+        "categoria": {
+            "nombre": "Disfraces",
+            "id": "disfraces"
+        },
+        "precio": 2500
+    },
+
+
+
+
+    {
+        "id": "remera-01",
+        "titulo": "remera-01",
+        "imagen": "./img/remeras/1.jpg",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "remera-02",
+        "titulo": "remera-02",
+        "imagen": "./img/remeras/2.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "remera-03",
+        "titulo": "remera-03",
+        "imagen": "./img/remeras/3.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "remera-04",
+        "imagen": "./img/remeras/4.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "remera-05",
+        "titulo": "remera-05",
+        "imagen": "./img/remeras/5.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "remera-06",
+        "titulo": "remera-06",
+        "imagen": "./img/remeras/6.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 2000
+    },
+
+
+    {
+        "id": "accesorio-01",
+        "titulo": "accesorio-01",
+        "imagen": "./img/accesorios/1.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "accesorio-02",
+        "titulo": "accesorio-02",
+        "imagen": "./img/accesorios/2.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "accesorio-03",
+        "titulo": "accesorio-03",
+        "imagen": "./img/accesorios/3.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "accesorio-04",
+        "titulo": "accesorio-04",
+        "imagen": "./img/accesorios/4.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "accesorio-05",
+        "titulo": "accesorio-05",
+        "imagen": "./img/accesorios/5.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "accesorio-06",
+        "titulo": "accesorio-06",
+        "imagen": "./img/accesorios/6.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 3000
+    }
+    ]
